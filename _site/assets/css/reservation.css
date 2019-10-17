@@ -1,6 +1,4 @@
----
-title: CSS stylesheet
----
+
 
 /* body {
     margin:0;
@@ -9,7 +7,7 @@ title: CSS stylesheet
     background-size: cover;
 } */
 #reservation {
-    background-image: url('{{site.baseurl}}/assets/images/descarga.jpg');
+    background-image: url('/assets/images/descarga.jpg');
     background-repeat: no-repeat, repeat;
     background-size: cover;
     margin-bottom: 35px;

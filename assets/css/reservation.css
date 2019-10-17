@@ -1,4 +1,5 @@
-
+---
+---
 
 /* body {
     margin:0;
@@ -7,7 +8,7 @@
     background-size: cover;
 } */
 #reservation {
-    background-image: url('/assets/images/descarga.jpg');
+    background-image: url('{{ site.baseurl }}/assets/images/descarga.jpg');
     background-repeat: no-repeat, repeat;
     background-size: cover;
     margin-bottom: 35px;
